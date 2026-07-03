@@ -1,4 +1,4 @@
-# <h1> Assignment Student Management Mini Project </h1>
+# <h1> Student Management Mini Project </h1>
 <br>
 <h3>Output</h3><br>
 <p>
